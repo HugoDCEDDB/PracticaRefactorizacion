@@ -18,6 +18,7 @@ public class Main {
         ImprimirFactura(nombreCliente, producto, precioProducto, cantidadProducto, subtotal, importeDescuento, importeIva, total);
     }
 
+    //prueba
 
 
     private static void ImprimirFactura(String nombreCliente, String producto, double precioProducto, int cantidadProducto, double subtotal, double importeDescuento, double importeIva, double total) {
